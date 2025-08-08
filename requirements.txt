@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+pymupdf
+pdfplumber
+python-docx
+python-multipart
+pinecone
+openai
+tiktoken
+aiohttp
+python-dotenv
+nltk
+requests
