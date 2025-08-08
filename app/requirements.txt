@@ -10,3 +10,4 @@ tiktoken
 aiohttp
 python-dotenv
 nltk
+requests
